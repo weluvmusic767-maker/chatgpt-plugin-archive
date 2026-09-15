@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "category": "Small Business",
+  "slug": "small-business",
+  "source_url": "https://chatgpt.com/plugins?category=small-business",
+  "source_type": "firecrawl_category_scrape",
+  "research_level": 1,
+  "plugin_count": 16,
+  "plugins": [
+    {"name":"Dropbox","plugin_id":"plugin_asdk_app_69b31dc2110c8191b8b47dc98fe5a052","description":"Find, create, and take action"},
+    {"name":"Intuit QuickBooks","plugin_id":"plugin_asdk_app_697aea3231288191b28a0061066e51bd","description":"Business finances made simple"},
+    {"name":"HubSpot","plugin_id":"plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14","description":"Insights to action in HubSpot"},
+    {"name":"Stripe","plugin_id":"plugin_connector_690ab09fa43c8191bca40280e4563238","description":"Accept payments. Grow revenue."},
+    {"name":"Canva","plugin_id":"plugin_connector_68df33b1a2d081918778431a9cfca8ba","description":"Create, review, edit designs"},
+    {"name":"Gusto","plugin_id":"plugin_asdk_app_69375d9f172c8191b23d73be4107128a","description":"Run payroll and team insights"},
+    {"name":"Figma","plugin_id":"plugin_connector_68df038e0ba48191908c8434991bbac2","description":"Figma design-to-code workflows"},
+    {"name":"Slack","plugin_id":"plugin_asdk_app_69a1d78e929881919bba0dbda1f6436d","description":"Read and manage Slack"},
+    {"name":"Shopify","plugin_id":"plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698","description":"Create and manage your store"},
+    {"name":"Wix","plugin_id":"plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc","description":"Create your own website"},
+    {"name":"Docusign","plugin_id":"plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204","description":"Manage contracts from ChatGPT"},
+    {"name":"Mercury","plugin_id":"plugin_asdk_app_6a17ae803744819187a3079d37479dae","description":"Understand your finances"},
+    {"name":"PayPal","plugin_id":"plugin_asdk_app_6969249b1a948191a1a1e32116504509","description":"Payments and business tools"},
+    {"name":"ClickUp","plugin_id":"plugin_asdk_app_69431e6d26b88191b4029488aeb42f5b","description":"Turn Codex into your ClickUp command center."},
+    {"name":"ZoomInfo","plugin_id":"plugin_asdk_app_698a340b9230819188ba5a5eea79022d","description":"B2B data and GTM insights"},
+    {"name":"HoneyBook","plugin_id":"plugin_asdk_app_6a7c329c161c8191a8df623446a34000","description":"Book clients, get paid"}
+  ]
+}
