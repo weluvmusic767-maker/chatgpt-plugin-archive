@@ -1,0 +1,18 @@
+# Local/editor files
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Local secrets
+.env
+.env.*
+*.token
+*.secret
+
+# Temporary processing files
+.tmp/
+temp/
+tmp/
+firecrawl-temp/

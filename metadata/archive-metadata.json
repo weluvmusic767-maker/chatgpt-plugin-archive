@@ -1,0 +1,41 @@
+{
+  "archive_name": "ChatGPT Plugin Archive",
+  "schema_version": 1,
+  "created": "2026-09-14",
+  "purpose": "Durable historical archive of ChatGPT plugin catalog data",
+  "primary_key": "plugin_name",
+  "matching_priority": [
+    "plugin_id",
+    "normalized_name",
+    "chatgpt_url",
+    "fuzzy_name_investigation_only"
+  ],
+  "removal_policy": {
+    "missing_from_one_snapshot": "investigate",
+    "confirmed_removed": "requires_verification",
+    "delete_records": false
+  },
+  "temporary_files": {
+    "gitkeep": true,
+    "remove_when_directory_populated": true
+  },
+  "source_categories": [
+    "featured",
+    "new-and-noteworthy",
+    "small-business",
+    "productivity",
+    "creativity",
+    "developer-tools",
+    "business-and-operations",
+    "data-and-analytics",
+    "communication",
+    "education-and-research",
+    "scientific-research",
+    "security",
+    "finance",
+    "healthcare",
+    "travel",
+    "entertainment",
+    "other"
+  ]
+}
