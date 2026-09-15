@@ -1,0 +1,310 @@
+{
+  "category": "Featured",
+  "captured_at": "2026-09-14",
+  "source": "https://chatgpt.com/plugins?category=featured",
+  "source_type": "firecrawl_category_scrape",
+  "research_level": 1,
+  "plugin_count": 50,
+  "plugins": [
+    {
+      "name": "GitHub",
+      "id": "plugin_connector_1p_1a69035c238881919c4190932b2df699",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_connector_1p_1a69035c238881919c4190932b2df699?category=featured",
+      "description": "Triage PRs, issues, CI, and publish flows"
+    },
+    {
+      "name": "Outlook Email",
+      "id": "plugin_connector_1p_6bcb5879c73c819196abc70016166099",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_connector_1p_6bcb5879c73c819196abc70016166099?category=featured",
+      "description": "Triage Outlook inboxes"
+    },
+    {
+      "name": "Canva",
+      "id": "plugin_connector_68df33b1a2d081918778431a9cfca8ba",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_connector_68df33b1a2d081918778431a9cfca8ba?category=featured",
+      "description": "Create, review, edit designs"
+    },
+    {
+      "name": "Slack",
+      "id": "plugin_asdk_app_69a1d78e929881919bba0dbda1f6436d",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69a1d78e929881919bba0dbda1f6436d?category=featured",
+      "description": "Read and manage Slack"
+    },
+    {
+      "name": "HubSpot",
+      "id": "plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14?category=featured",
+      "description": "Insights to action in HubSpot"
+    },
+    {
+      "name": "Supabase",
+      "id": "plugin_asdk_app_69d3e5ee6a708191baa733f7b8931995",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69d3e5ee6a708191baa733f7b8931995?category=featured",
+      "description": "Manage and query databases"
+    },
+    {
+      "name": "Exa",
+      "id": "plugin_asdk_app_69ea4ed2cf7c8191b742ef3622479ddd",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69ea4ed2cf7c8191b742ef3622479ddd?category=featured",
+      "description": "Web search for AI agents"
+    },
+    {
+      "name": "Notion",
+      "id": "plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e?category=featured",
+      "description": "Notion docs and workflows"
+    },
+    {
+      "name": "Outlook Calendar",
+      "id": "plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d?category=featured",
+      "description": "Manage Outlook schedules"
+    },
+    {
+      "name": "monday.com",
+      "id": "plugin_connector_690aabb71bf481918b8d5b614ed3fd4c",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_connector_690aabb71bf481918b8d5b614ed3fd4c?category=featured",
+      "description": "Manage projects, tasks & CRM"
+    },
+    {
+      "name": "Shopify",
+      "id": "plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698?category=featured",
+      "description": "Create and manage your store"
+    },
+    {
+      "name": "Astrologic",
+      "id": "plugin_asdk_app_6944733e4ddc8191bd617f781ff93d51",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_6944733e4ddc8191bd617f781ff93d51?category=featured",
+      "description": "Birth charts and horoscopes"
+    },
+    {
+      "name": "Windsor.ai",
+      "id": "plugin_asdk_app_694a52cfaa3c819192bea84eaa254968",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_694a52cfaa3c819192bea84eaa254968?category=featured",
+      "description": "Connect 350+ data sources"
+    },
+    {
+      "name": "Interactive Brokers (IBKR)",
+      "id": "plugin_asdk_app_69bc11db874881918718abaca20b68ce",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69bc11db874881918718abaca20b68ce?category=featured",
+      "description": "Analyze global markets"
+    },
+    {
+      "name": "Fathom",
+      "id": "plugin_asdk_app_69d88b99c5c481918e8da9225737e1e9",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69d88b99c5c481918e8da9225737e1e9?category=featured",
+      "description": "Your meeting insights"
+    },
+    {
+      "name": "Trello",
+      "id": "plugin_asdk_app_6a20b18a639081918c1b438f8381b27e",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a20b18a639081918c1b438f8381b27e?category=featured",
+      "description": "Get things done in Trello"
+    },
+    {
+      "name": "vidIQ",
+      "id": "plugin_asdk_app_69dd11f3e50c8191b1ca48d03cf7e2ad",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69dd11f3e50c8191b1ca48d03cf7e2ad?category=featured",
+      "description": "YouTube stats and keywords"
+    },
+    {
+      "name": "Granola",
+      "id": "plugin_asdk_app_697761cab6f48191b5ed345919a3ce8b",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_697761cab6f48191b5ed345919a3ce8b?category=featured",
+      "description": "Add your meeting context"
+    },
+    {
+      "name": "Todoist: To Do List & Calendar",
+      "id": "plugin_asdk_app_6943b73823548191a9f9216c6790c453",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_6943b73823548191a9f9216c6790c453?category=featured",
+      "description": "Planner & Reminders"
+    },
+    {
+      "name": "Metricool",
+      "id": "plugin_asdk_app_69d73fc8aa5c8191bec1583760b130c7",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69d73fc8aa5c8191bec1583760b130c7?category=featured",
+      "description": "Analyze and schedule posts"
+    },
+    {
+      "name": "Railway",
+      "id": "plugin_asdk_app_6a502589384081919c5decf93496c9d1",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a502589384081919c5decf93496c9d1?category=featured",
+      "description": "Build and deploy apps"
+    },
+    {
+      "name": "Fireflies",
+      "id": "plugin_connector_6912075cb358819187346bcafb601db8",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_connector_6912075cb358819187346bcafb601db8?category=featured",
+      "description": "Search meeting transcripts"
+    },
+    {
+      "name": "Tarot",
+      "id": "plugin_asdk_app_6943a2c078b0819188de39e4fe168d9b",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_6943a2c078b0819188de39e4fe168d9b?category=featured",
+      "description": "Tarot Reading & Divination"
+    },
+    {
+      "name": "Kleinanzeigen",
+      "id": "plugin_asdk_app_694a63a053f081918b9a3738bd3640c9",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_694a63a053f081918b9a3738bd3640c9?category=featured",
+      "description": "Echte Deals. Echte Menschen."
+    },
+    {
+      "name": "Firecrawl",
+      "id": "plugin_asdk_app_6a314a73f8ac819195b0d55e36b9c609",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a314a73f8ac819195b0d55e36b9c609?category=featured",
+      "description": "Search and scrape the web"
+    },
+    {
+      "name": "Floot",
+      "id": "plugin_asdk_app_6a500d350f8c819194e30335a7b134af",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a500d350f8c819194e30335a7b134af?category=featured",
+      "description": "Build and host full-stack apps"
+    },
+    {
+      "name": "Ubersuggest",
+      "id": "plugin_asdk_app_69457f8444848191918f7c00fea68076",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69457f8444848191918f7c00fea68076?category=featured",
+      "description": "Find keywords and SEO insights"
+    },
+    {
+      "name": "SharePoint",
+      "id": "plugin_connector_1p_dca009ae2c848191ae14df3a47c5e7fd",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_connector_1p_dca009ae2c848191ae14df3a47c5e7fd?category=featured",
+      "description": "Summarize SharePoint content"
+    },
+    {
+      "name": "Teams",
+      "id": "plugin_connector_1p_eba8b52fe53881918408d4b46b957644",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_connector_1p_eba8b52fe53881918408d4b46b957644?category=featured",
+      "description": "Summarize Teams and follow up"
+    },
+    {
+      "name": "Vercel",
+      "id": "plugin_connector_690a90ec05c881918afb6a55dc9bbaa1",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_connector_690a90ec05c881918afb6a55dc9bbaa1?category=featured",
+      "description": "Build and deploy web apps and agents"
+    },
+    {
+      "name": "Plaud",
+      "id": "plugin_asdk_app_69f3c30d68288191bbd428a394a78407",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69f3c30d68288191bbd428a394a78407?category=featured",
+      "description": "Retrieve insights from Plaud"
+    },
+    {
+      "name": "Intuit QuickBooks",
+      "id": "plugin_asdk_app_697aea3231288191b28a0061066e51bd",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_697aea3231288191b28a0061066e51bd?category=featured",
+      "description": "Business finances made simple"
+    },
+    {
+      "name": "Lusha",
+      "id": "plugin_asdk_app_69e5f69b54d8819185e1638e73c15e3b",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69e5f69b54d8819185e1638e73c15e3b?category=featured",
+      "description": "Verified B2B Data & Signals"
+    },
+    {
+      "name": "Airtable",
+      "id": "plugin_asdk_app_693ca6ce2db08191bb52d66743c65184",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_693ca6ce2db08191bb52d66743c65184?category=featured",
+      "description": "Add structured data to ChatGPT"
+    },
+    {
+      "name": "Remote Desktop Commander",
+      "id": "plugin_asdk_app_6a057d268ebc81919918d37eec718425",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a057d268ebc81919918d37eec718425?category=featured",
+      "description": "Build and automate, anywhere"
+    },
+    {
+      "name": "Superhuman Mail",
+      "id": "plugin_asdk_app_69a21e4058dc8191a6220fa911310d7b",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69a21e4058dc8191a6220fa911310d7b?category=featured",
+      "description": "Best email+calendar assistant"
+    },
+    {
+      "name": "Wix",
+      "id": "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc?category=featured",
+      "description": "Create your own website"
+    },
+    {
+      "name": "ZoomInfo",
+      "id": "plugin_asdk_app_698a340b9230819188ba5a5eea79022d",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_698a340b9230819188ba5a5eea79022d?category=featured",
+      "description": "B2B data and GTM insights"
+    },
+    {
+      "name": "Fitness AI Connector",
+      "id": "plugin_asdk_app_69beacb8780c81919104bb111b56346b",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69beacb8780c81919104bb111b56346b?category=featured",
+      "description": "AI coach for your Garmin data"
+    },
+    {
+      "name": "COROS",
+      "id": "plugin_asdk_app_6a0694cbb2608191bbefb74ba810ab68",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a0694cbb2608191bbefb74ba810ab68?category=featured",
+      "description": "Workout data insights"
+    },
+    {
+      "name": "Ask Tarot Cards",
+      "id": "plugin_asdk_app_69fde861d3988191a7157df33544f855",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69fde861d3988191a7157df33544f855?category=featured",
+      "description": "Tarot card readings"
+    },
+    {
+      "name": "Astro Scope: Astrology",
+      "id": "plugin_asdk_app_69f8e6b3abf08191931ed329fda8a980",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69f8e6b3abf08191931ed329fda8a980?category=featured",
+      "description": "Birth Chart, Horoscope Ai"
+    },
+    {
+      "name": "Render",
+      "id": "plugin_asdk_app_6a624c56bfe081918f7544f7d58f6faf",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a624c56bfe081918f7544f7d58f6faf?category=featured",
+      "description": "Manage Render resources"
+    },
+    {
+      "name": "Dropbox",
+      "id": "plugin_asdk_app_69b31dc2110c8191b8b47dc98fe5a052",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69b31dc2110c8191b8b47dc98fe5a052?category=featured",
+      "description": "Find, create, and take action"
+    },
+    {
+      "name": "PostHog",
+      "id": "plugin_asdk_app_699caef2d680819188727b0ddbb349dd",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_699caef2d680819188727b0ddbb349dd?category=featured",
+      "description": "Analyze your product data"
+    },
+    {
+      "name": "Hatchable",
+      "id": "plugin_asdk_app_69e39e675b348191a4d52cf2bc580b79",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69e39e675b348191a4d52cf2bc580b79?category=featured",
+      "description": "Host apps and websites"
+    },
+    {
+      "name": "WPVibe",
+      "id": "plugin_asdk_app_6a244fb509e481918985fee76373b0f9",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a244fb509e481918985fee76373b0f9?category=featured",
+      "description": "AI WordPress tools"
+    },
+    {
+      "name": "Gmail",
+      "id": "plugin_connector_1p_95d39881713c8191931482a62d6edff9",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_connector_1p_95d39881713c8191931482a62d6edff9?category=featured",
+      "description": "Read and manage Gmail"
+    },
+    {
+      "name": "Google Drive",
+      "id": "plugin_connector_1p_ab21a553bfbc81919ea8fd1858e3ffa7",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_connector_1p_ab21a553bfbc81919ea8fd1858e3ffa7?category=featured",
+      "description": "Drive, Docs, Sheets or Slides"
+    },
+    {
+      "name": "Google Calendar",
+      "id": "plugin_connector_1p_f8509de903288191b14a160c6c5d20b0",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_connector_1p_f8509de903288191b14a160c6c5d20b0?category=featured",
+      "description": "Manage Google Calendar events"
+    }
+  ]
+}
