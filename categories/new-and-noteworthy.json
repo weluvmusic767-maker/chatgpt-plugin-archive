@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "category": "New & Noteworthy",
+  "category_slug": "new-and-noteworthy",
+  "source_url": "https://chatgpt.com/plugins?category=new-and-noteworthy",
+  "source_type": "firecrawl_category_scrape",
+  "research_level": 1,
+  "plugin_count": 38,
+  "plugins": [
+    {
+      "name": "Data",
+      "plugin_id": "Plugin_fc9843a6fb34819195d6c7802398a8a7",
+      "description": "Answer questions with data",
+      "chatgpt_url": "https://chatgpt.com/plugins/Plugin_fc9843a6fb34819195d6c7802398a8a7?category=new-and-noteworthy"
+    },
+    {
+      "name": "Tableau",
+      "plugin_id": "plugins_6aa0b89dcfc88191ba9971f2d7182516",
+      "description": "See and understand data",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugins_6aa0b89dcfc88191ba9971f2d7182516?category=new-and-noteworthy"
+    },
+    {
+      "name": "Microsoft Power BI",
+      "plugin_id": "Plugin_52b7f269362c819190348f32a2f9e7a9",
+      "description": "Explore and author analytics in your browser",
+      "chatgpt_url": "https://chatgpt.com/plugins/Plugin_52b7f269362c819190348f32a2f9e7a9?category=new-and-noteworthy"
+    },
+    {
+      "name": "AWS Data Analytics",
+      "plugin_id": "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6",
+      "description": "AWS Data Analytics Plugin",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6?category=new-and-noteworthy"
+    },
+    {
+      "name": "ClickHouse",
+      "plugin_id": "plugin_asdk_app_6a57330f603c8191928119af462402b2",
+      "description": "Explore ClickHouse Cloud",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a57330f603c8191928119af462402b2?category=new-and-noteworthy"
+    },
+    {
+      "name": "Firebase",
+      "plugin_id": "plugins_6a8ddf314ab88191864c208fda197798",
+      "description": "Build and manage Firebase apps",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugins_6a8ddf314ab88191864c208fda197798?category=new-and-noteworthy"
+    },
+    {
+      "name": "ThoughtSpot Spotter",
+      "plugin_id": "plugin_asdk_app_69d8425f7a1c8191a438821b9c553b79",
+      "description": "Your AI data analyst",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69d8425f7a1c8191a438821b9c553b79?category=new-and-noteworthy"
+    },
+    {
+      "name": "MongoDB Atlas",
+      "plugin_id": "plugin_asdk_app_6a5fa5e2392c8191824fb0340191afba",
+      "description": "Connect to MongoDB Atlas",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a5fa5e2392c8191824fb0340191afba?category=new-and-noteworthy"
+    },
+    {
+      "name": "MotherDuck",
+      "plugin_id": "plugin_asdk_app_696a54f1c91c81919002b9153ce0e336",
+      "description": "Get answers from your data",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_696a54f1c91c81919002b9153ce0e336?category=new-and-noteworthy"
+    },
+    {
+      "name": "Oracle Analytics",
+      "plugin_id": "Plugin_1c7fdf7f11dc819183017847ab1295cb",
+      "description": "Explore dashboards, build analyses, and work with reports",
+      "chatgpt_url": "https://chatgpt.com/plugins/Plugin_1c7fdf7f11dc819183017847ab1295cb?category=new-and-noteworthy"
+    },
+    {
+      "name": "Redis",
+      "plugin_id": "plugins_6a85b91f8aa081918a9daf1444559586",
+      "description": "Build Redis applications",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugins_6a85b91f8aa081918a9daf1444559586?category=new-and-noteworthy"
+    },
+    {
+      "name": "Datadog Experiments",
+      "plugin_id": "plugin_asdk_app_6a7c7752de408191a101b78e59fda025",
+      "description": "Experiment and product data",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a7c7752de408191a101b78e59fda025?category=new-and-noteworthy"
+    },
+    {
+      "name": "Omni",
+      "plugin_id": "plugin_asdk_app_694e8b8715108191a49fe2db4398d9e2",
+      "description": "Query business data",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_694e8b8715108191a49fe2db4398d9e2?category=new-and-noteworthy"
+    },
+    {
+      "name": "Healthcare Public Data",
+      "plugin_id": "Plugin_0f6b9c5599c0819195583d9b9ce1d9bf",
+      "description": "Search official public healthcare sources",
+      "chatgpt_url": "https://chatgpt.com/plugins/Plugin_0f6b9c5599c0819195583d9b9ce1d9bf?category=new-and-noteworthy"
+    },
+    {
+      "name": "Datadog (Preview)",
+      "plugin_id": "plugin_asdk_app_69e8c7f174a08191a28b6da96c8062c4",
+      "description": "Search and act on your data",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69e8c7f174a08191a28b6da96c8062c4?category=new-and-noteworthy"
+    },
+    {
+      "name": "Longbridge",
+      "plugin_id": "plugin_asdk_app_6a2baf2fad748191812393c3e00308ef",
+      "description": "Stock quotes, financial data",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a2baf2fad748191812393c3e00308ef?category=new-and-noteworthy"
+    },
+    {
+      "name": "Rosalind Workbench",
+      "plugin_id": "Plugin_fdf96f49d1dc8191b1156f74e98446b5",
+      "description": "Explore life-science workflows",
+      "chatgpt_url": "https://chatgpt.com/plugins/Plugin_fdf96f49d1dc8191b1156f74e98446b5?category=new-and-noteworthy"
+    },
+    {
+      "name": "Attio",
+      "plugin_id": "plugin_asdk_app_6981f663d5cc8191ae0d5717a05ccc89",
+      "description": "Manage your CRM with ChatGPT",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_6981f663d5cc8191ae0d5717a05ccc89?category=new-and-noteworthy"
+    },
+    {
+      "name": "Mixpanel",
+      "plugin_id": "plugin_asdk_app_69b2e9aed45c8191b254b207dfcc2bb4",
+      "description": "Query and analyze Mixpanel",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69b2e9aed45c8191b254b207dfcc2bb4?category=new-and-noteworthy"
+    },
+    {
+      "name": "Wrike",
+      "plugin_id": "plugin_asdk_app_69df5cd50c68819189d47543ff2279e1",
+      "description": "Manage and move work forward",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69df5cd50c68819189d47543ff2279e1?category=new-and-noteworthy"
+    },
+    {
+      "name": "Close",
+      "plugin_id": "plugin_asdk_app_694574813e548191bac45327be0a61d1",
+      "description": "Close CRM for ChatGPT",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_694574813e548191bac45327be0a61d1?category=new-and-noteworthy"
+    },
+    {
+      "name": "Amplitude",
+      "plugin_id": "plugin_connector_690e2dabf430819196f8b3701ec838ec",
+      "description": "Analyze your product data",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_connector_690e2dabf430819196f8b3701ec838ec?category=new-and-noteworthy"
+    },
+    {
+      "name": "FactSet AI-Ready Data",
+      "plugin_id": "plugin_asdk_app_699727751b1c819193883394649579e2",
+      "description": "Seamless Financial Data",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_699727751b1c819193883394649579e2?category=new-and-noteworthy"
+    },
+    {
+      "name": "Coda",
+      "plugin_id": "plugin_asdk_app_69bd90ac5acc8191ba9dcd990ef07b84",
+      "description": "Create, search, update docs",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69bd90ac5acc8191ba9dcd990ef07b84?category=new-and-noteworthy"
+    },
+    {
+      "name": "Mixpanel Headless",
+      "plugin_id": "Plugin_646f53d9a40c8191a747ca268ab3d779",
+      "description": "Analyze Mixpanel data with Python",
+      "chatgpt_url": "https://chatgpt.com/plugins/Plugin_646f53d9a40c8191a747ca268ab3d779?category=new-and-noteworthy"
+    },
+    {
+      "name": "PitchBook",
+      "plugin_id": "plugin_asdk_app_693850f6312c8191be5a026bf3538e80",
+      "description": "Private capital market data",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_693850f6312c8191be5a026bf3538e80?category=new-and-noteworthy"
+    },
+    {
+      "name": "Egnyte",
+      "plugin_id": "plugin_connector_691f749cd9088191befeb1d543c37d98",
+      "description": "Find and analyze your files",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_connector_691f749cd9088191befeb1d543c37d98?category=new-and-noteworthy"
+    },
+    {
+      "name": "Statsig",
+      "plugin_id": "plugin_asdk_app_6967f065ac9481918969c660ff7686e9",
+      "description": "Connect to Statsig",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_6967f065ac9481918969c660ff7686e9?category=new-and-noteworthy"
+    },
+    {
+      "name": "Seismic",
+      "plugin_id": "plugin_asdk_app_69dd1d0f73b48191ac4fadf206ad9aed",
+      "description": "The Seismic MCP Connector",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69dd1d0f73b48191ac4fadf206ad9aed?category=new-and-noteworthy"
+    },
+    {
+      "name": "Dropbox Dash",
+      "plugin_id": "plugin_asdk_app_69ca45719b948191999f401a2108740b",
+      "description": "AI that understands your work",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69ca45719b948191999f401a2108740b?category=new-and-noteworthy"
+    },
+    {
+      "name": "Carta CRM",
+      "plugin_id": "plugin_asdk_app_69d6804c5c2481919b2674401922ebba",
+      "description": "Find deals, investors, notes.",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_69d6804c5c2481919b2674401922ebba?category=new-and-noteworthy"
+    },
+    {
+      "name": "Zendesk (Beta)",
+      "plugin_id": "plugin_connector_1p_a609524f62cc8191874331fbd02c064e",
+      "description": "Investigate support activity and manage Zendesk work",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_connector_1p_a609524f62cc8191874331fbd02c064e?category=new-and-noteworthy"
+    },
+    {
+      "name": "Sigma",
+      "plugin_id": "plugin_templated_apps_6a9b05b3b5e0819197d074e79dfc2e8d",
+      "description": "Build and explore your data",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_templated_apps_6a9b05b3b5e0819197d074e79dfc2e8d?category=new-and-noteworthy"
+    },
+    {
+      "name": "dbt",
+      "plugin_id": "plugin_templated_apps_6a710de0c6b08191a298927933709e4e",
+      "description": "Work with dbt projects",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_templated_apps_6a710de0c6b08191a298927933709e4e?category=new-and-noteworthy"
+    },
+    {
+      "name": "BigQuery",
+      "plugin_id": "plugin_connector_1p_b1cefad35a80819184ba7ed35d601d34",
+      "description": "Query and manage BigQuery",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_connector_1p_b1cefad35a80819184ba7ed35d601d34?category=new-and-noteworthy"
+    },
+    {
+      "name": "Salesforce",
+      "plugin_id": "plugin_asdk_app_697d413990c88191a2bf4799604f8f6c",
+      "description": "Manage Salesforce records",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_asdk_app_697d413990c88191a2bf4799604f8f6c?category=new-and-noteworthy"
+    },
+    {
+      "name": "Company Knowledge",
+      "plugin_id": "Plugin_b0672f102c2081919b893649fdcfeeaa",
+      "description": "Find decisions, documents, and project context across connected sources",
+      "chatgpt_url": "https://chatgpt.com/plugins/Plugin_b0672f102c2081919b893649fdcfeeaa?category=new-and-noteworthy"
+    },
+    {
+      "name": "ChatGPT Admin",
+      "plugin_id": "plugin_connector_1p_e4d796f7afc48191bf6af2220a55fdd6",
+      "description": "Manage ChatGPT workspaces for workspace owners or admins.",
+      "chatgpt_url": "https://chatgpt.com/plugins/plugin_connector_1p_e4d796f7afc48191bf6af2220a55fdd6?category=new-and-noteworthy"
+    }
+  ]
+}
